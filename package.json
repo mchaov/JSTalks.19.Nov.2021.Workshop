@@ -1,0 +1,23 @@
+{
+  "name": "jstalks.19.nov.2021.workshop",
+  "version": "1.0.0",
+  "description": "Prep for the workshop on 19.11.2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchaov/JSTalks.19.Nov.2021.Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchaov/JSTalks.19.Nov.2021.Workshop/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "27.3.1"
+  },
+  "homepage": "https://github.com/mchaov/JSTalks.19.Nov.2021.Workshop#readme"
+}
